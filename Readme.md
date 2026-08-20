@@ -1,1 +1,4 @@
-## This is an simple python guide to refresh your python skills before going into ML
+# Python
+Simple python
+having list, dictionary and set
+added args_Kwargs file  
