@@ -1,0 +1,1 @@
+## This is an simple python guide to refresh your python skills before going into ML
