@@ -16,3 +16,4 @@ def batch_generator(data, batch_size):
 data = list(range(10))
 for batch in batch_generator(data,2):
     print(batch)
+    
